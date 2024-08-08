@@ -1,0 +1,5 @@
+train: 불법건축물탐지/dataset/train
+val: 불법건축물탐지/dataset/train
+
+nc: 3
+names: ['building', 'solar panel', 'greenhouse']
