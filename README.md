@@ -56,20 +56,6 @@
 <br >
 <br >
 
-# 📲 설치
-
-    npm install
-
-vite 설치하기
-
-    npm create vite@latest
-
-프로젝트 실행
-
-    npm run dev
-
-<br >
-<br >
 
 # 👨‍👩‍👧‍👦 팀 소개
 
